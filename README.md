@@ -20,14 +20,10 @@ Price: The price of the laptop in USD.
 Setup and Installation
 Clone the repository:
 
-bash
-Copy code
-git clone <repository-url>
-cd <repository-folder>
+
 Install dependencies: Ensure that pandas, selenium, matplotlib, and plotly are installed in your environment. You can install these packages using pip:
 
-bash
-Copy code
+
 pip install pandas selenium matplotlib plotly
 Download and install ChromeDriver:
 
